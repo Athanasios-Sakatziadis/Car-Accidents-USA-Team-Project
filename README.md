@@ -2,8 +2,8 @@
 
 ## Team Members
 
-__Kalliopi Giannoukou__
-__Evangelia Katsanou__
+__Kalliopi Giannoukou__,
+__Evangelia Katsanou__,
 __Athanasios Sakatziadis__
 
 ## Project Overview
