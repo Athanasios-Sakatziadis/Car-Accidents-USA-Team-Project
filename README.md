@@ -2,8 +2,13 @@
 
 ## Team Members
 
+<<<<<<< HEAD
 __Kalliopi Giannoukou__,
 __Evangelia Katsanou__,
+=======
+__Kalliopi Giannoukou__
+__Evangelia Katsanou__
+>>>>>>> 6a4ad1f288667b612a84a18115b2846b972f5cd2
 __Athanasios Sakatziadis__
 
 ## Project Overview
@@ -28,4 +33,8 @@ Handle missing data, convert time formats, normalize fields, and prepare the dat
 
 >Visualize trends with graphs and charts
 
+<<<<<<< HEAD
 Use plots, heatmaps, and distributions to clearly communicate insights.
+=======
+Use plots, heatmaps, and distributions to clearly communicate insights.
+>>>>>>> 6a4ad1f288667b612a84a18115b2846b972f5cd2
